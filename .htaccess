@@ -1,0 +1,4 @@
+AuthName "Protected area"
+AuthType Basic
+AuthUserFile "/homepages/5/d147568114/htdocs/cde/cde/.htpasswd"
+Require valid-user
